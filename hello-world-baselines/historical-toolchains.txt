@@ -1,0 +1,5 @@
+zig 0.15.2
+go version go1.25.3 windows/amd64
+clang clang version 21.1.8
+clang++ clang version 21.1.8
+rustc 1.93.1 (01f6ddf75 2026-02-11)

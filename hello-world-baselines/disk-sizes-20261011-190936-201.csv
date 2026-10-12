@@ -1,0 +1,8 @@
+﻿"TimestampUtc","Language","Mode","ExecutableBytes","ExecutableKiB","Executable"
+"2026-10-12T02:09:36.1579539Z","C","O2","111104","108.5","D:\rb\tiny\hello-world-baselines\c\bin\hello-c.exe"
+"2026-10-12T02:09:36.1676638Z","C-no-CRT","O2, nostdlib","2560","2.5","D:\rb\tiny\hello-world-baselines\c\bin-nostdlib\hello-c-nostdlib.exe"
+"2026-10-12T02:09:36.1698511Z","C++","O2","216064","211","D:\rb\tiny\hello-world-baselines\cpp\bin\hello-cpp.exe"
+"2026-10-12T02:09:36.1708516Z","Rust","opt-level=2","129536","126.5","D:\rb\tiny\hello-world-baselines\rust\bin\hello-rust.exe"
+"2026-10-12T02:09:36.1708516Z","Go","default","2330624","2276","D:\rb\tiny\hello-world-baselines\go\bin\hello-go.exe"
+"2026-10-12T02:09:36.1708516Z","Zig","ReleaseSafe","924160","902.5","D:\rb\tiny\hello-world-baselines\zig\bin\hello-zig.exe"
+"2026-10-12T02:09:36.1718510Z","Zig","ReleaseSmall","499712","488","D:\rb\tiny\hello-world-baselines\zig\bin\hello-zig-small.exe"

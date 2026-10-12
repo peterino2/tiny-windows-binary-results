@@ -1,0 +1,58 @@
+[
+  {
+    "language": "zig",
+    "exe_file": "D:\\rb\\research\\native apis\\scratch\\hello-world-language-baselines\\zig\\bin\\hello-zig.exe",
+    "exe_size_bytes": "541696",
+    "bin_file_count": "2",
+    "bin_total_bytes": "1983488",
+    "run_output": "Hello, world!"
+  },
+  {
+    "language": "go",
+    "exe_file": "D:\\rb\\research\\native apis\\scratch\\hello-world-language-baselines\\go\\bin\\hello-go.exe",
+    "exe_size_bytes": "2330624",
+    "bin_file_count": "1",
+    "bin_total_bytes": "2330624",
+    "run_output": "Hello, world!"
+  },
+  {
+    "language": "c",
+    "exe_file": "D:\\rb\\research\\native apis\\scratch\\hello-world-language-baselines\\c\\bin\\hello-c.exe",
+    "exe_size_bytes": "111104",
+    "bin_file_count": "1",
+    "bin_total_bytes": "111104",
+    "run_output": "Hello, world!"
+  },
+  {
+    "language": "c-nostdlib",
+    "exe_file": "D:\\rb\\research\\native apis\\scratch\\hello-world-language-baselines\\c\\bin-nostdlib\\hello-c-nostdlib.exe",
+    "exe_size_bytes": 2560,
+    "bin_file_count": 1,
+    "bin_total_bytes": 2560,
+    "run_output": "Hello, world!"
+  },
+  {
+    "language": "cpp",
+    "exe_file": "D:\\rb\\research\\native apis\\scratch\\hello-world-language-baselines\\cpp\\bin\\hello-cpp.exe",
+    "exe_size_bytes": "216064",
+    "bin_file_count": "1",
+    "bin_total_bytes": "216064",
+    "run_output": "Hello, world!"
+  },
+  {
+    "language": "rust",
+    "exe_file": "D:\\rb\\research\\native apis\\scratch\\hello-world-language-baselines\\rust\\bin\\hello-rust.exe",
+    "exe_size_bytes": "129536",
+    "bin_file_count": "2",
+    "bin_total_bytes": "1403392",
+    "run_output": "Hello, world!"
+  },
+  {
+    "language": "zig-release-small",
+    "exe_file": "D:\\rb\\research\\native apis\\scratch\\hello-world-language-baselines\\zig\\bin\\hello-zig-small.exe",
+    "exe_size_bytes": 13824,
+    "bin_file_count": 1,
+    "bin_total_bytes": 13824,
+    "run_output": "Hello, world!"
+  }
+]

@@ -1,0 +1,28 @@
+# Generated executables, libraries, symbols, and compiler/linker intermediates.
+*.exe
+*.dll
+*.pdb
+*.obj
+*.o
+*.lib
+*.a
+*.exp
+*.ilk
+*.idb
+
+# Rust and Zig build output/caches.
+**/target/
+**/zig-out/
+**/.zig-cache/
+**/.zig-global-cache/
+**/_zig-global-cache/
+
+# Console baseline build output (including symbol files).
+/hello-world-baselines/**/bin/
+/hello-world-baselines/**/bin-nostdlib/
+
+# Keep vendored dependencies, including the Vulkan compiler and import library.
+!/vendor/**
+
+# Sources, build/run scripts, Cargo.lock, SPIR-V blobs, and result CSV/JSON
+# files are intentionally kept.

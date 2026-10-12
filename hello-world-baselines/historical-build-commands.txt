@@ -1,0 +1,8 @@
+zig	zig build-exe main.zig -O ReleaseSafe -femit-bin=bin/hello-zig.exe --cache-dir .zig-cache --global-cache-dir ..\\_zig-global-cache
+zig-release-small	zig build-exe main.zig -O ReleaseSmall -femit-bin=bin/hello-zig-small.exe --cache-dir .zig-cache-small --global-cache-dir ..\\_zig-global-cache
+go	go build -o bin/hello-go.exe main.go
+c	clang -O2 -o bin/hello-c.exe main.c
+c-nostdlib-helper	build_nostdlib.bat --run
+c-nostdlib	clang -nostdlib -fuse-ld=lld -o bin-nostdlib/hello-c-nostdlib.exe main_nostdlib.c -Wl,/entry:mainCRTStartup -Wl,/subsystem:console "C:\Program Files (x86)\Windows Kits\10\Lib\10.0.26100.0\um\x64\kernel32.Lib"
+cpp	clang++ -O2 -o bin/hello-cpp.exe main.cpp
+rust	rustc -C opt-level=2 -o bin/hello-rust.exe main.rs

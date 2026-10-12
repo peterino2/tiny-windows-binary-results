@@ -1,0 +1,8 @@
+"language","exe_file","exe_size_bytes","bin_file_count","bin_total_bytes","run_output"
+"zig","D:\rb\research\native apis\scratch\hello-world-language-baselines\zig\bin\hello-zig.exe","541696","2","1983488","Hello, world!"
+"go","D:\rb\research\native apis\scratch\hello-world-language-baselines\go\bin\hello-go.exe","2330624","1","2330624","Hello, world!"
+"c","D:\rb\research\native apis\scratch\hello-world-language-baselines\c\bin\hello-c.exe","111104","1","111104","Hello, world!"
+"c-nostdlib","D:\rb\research\native apis\scratch\hello-world-language-baselines\c\bin-nostdlib\hello-c-nostdlib.exe","2560","1","2560","Hello, world!"
+"cpp","D:\rb\research\native apis\scratch\hello-world-language-baselines\cpp\bin\hello-cpp.exe","216064","1","216064","Hello, world!"
+"rust","D:\rb\research\native apis\scratch\hello-world-language-baselines\rust\bin\hello-rust.exe","129536","2","1403392","Hello, world!"
+"zig-release-small","D:\rb\research\native apis\scratch\hello-world-language-baselines\zig\bin\hello-zig-small.exe","13824","1","13824","Hello, world!"
